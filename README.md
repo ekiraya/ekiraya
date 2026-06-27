@@ -30,8 +30,8 @@
 
 <h2>Powershell</h2>
 
-- <b>[Powershell script to bulk execure cmd commands](https://github.com/ekiraya/Powershell-script-to-bulk-execute-commands)</b><br><br>
+- <b>[Powershell script to bulk execure cmd commands](https://github.com/ekiraya/Powershell-script-to-bulk-execute-commands)</b><br>
   - System administrators often need to use commands such as ipconfig or gpupdate on multiple hosts at the same time. This tutorial outlines a script to facilitate such actions.
 
-- <b>[Solving dhpc issues with powershell scripts](https://github.com/ekiraya/Automatization-of-dhcp-issues-resolution-with-powershell-script)</b><br><br>
+- <b>[Solving dhpc issues with powershell scripts](https://github.com/ekiraya/Automatization-of-dhcp-issues-resolution-with-powershell-script)</b><br>
   - Created a fake DHCP configuration issue and solved it using PowerShell scripts to make a diagnosis of the problem and solve it in multiple VMs at the same time.
