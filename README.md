@@ -17,14 +17,14 @@
   - This tutorial covers deploying a Microsoft Azure virtual machine as a server to host osTicket, as well as configuring domain-joined computers to access the service by simply browsing to a specific webpage.
 
 - <b>[Active directory deployment and explanation](https://github.com/ekiraya/Deploying-azure-active-directory)</b>
-  - This tutorial covers the deployment of an Active Directory in Azure. It also contains multiple explanations and graphs aimed at making this process make more sense for non-technical people
+  - Deployment of Active Directory in Azure. It also contains multiple explanations and graphs aimed at making this process make more sense for non-technical people
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=238636&height=2" width="100%">
 
 <h2>osTicket</h2>
 
 - <b>[osTicket installation](https://github.com/ekiraya/In_depth_osTicket_Installation)</b><br><br>
-  - This tutorial covers the installation of osTicket on a virtual machine. As well as an explanation of every component needed for the application to be installed and run.
+  - Covers the installation of osTicket on a virtual machine. It also explains every component needed to install and run the application.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=238636&height=2" width="100%">
 
@@ -35,3 +35,10 @@
 
 - <b>[Solving dhpc issues with powershell scripts](https://github.com/ekiraya/Automatization-of-dhcp-issues-resolution-with-powershell-script)</b><br>
   - Created a fake DHCP configuration issue and solved it using PowerShell scripts to make a diagnosis of the problem and solve it in multiple VMs at the same time.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=238636&height=2" width="100%">
+
+<h2>Educational Technology</h2>
+
+- <b>[Discord bot for phonetic training](https://github.com/ekiraya/Testhri-Phonetic-Training-Discord-Bot)</b><br>
+  - Developed a Discord bot that generates pitch, intensity, and formant contours for language learners to use as feedback to correct their pronunciations
